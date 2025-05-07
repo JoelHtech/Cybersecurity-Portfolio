@@ -1,2 +1,2 @@
-# THM-Writeups
-My writeups from personal projects using TryHackMe
+# TryHackMe-Writeups
+Writeups for TryHackMe rooms I've completed.
