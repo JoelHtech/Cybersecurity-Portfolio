@@ -1,2 +1,2 @@
-# TryHackMe-Writeups
-Writeups for TryHackMe rooms I've completed.
+# CyberSecurity-Portfolio
+My CyberSecurity portfolio covering write-ups and projects from TryHackMe, HackTheBox, and Python.
