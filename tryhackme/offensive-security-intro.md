@@ -11,7 +11,7 @@ This room provided a strong introduction to offensive security practices and hel
 - Web application testing techniques
 - Enumeration strategies
 
-## Key Takeaways
+## Key Skills Learnt
 - Learned how to approach systems from an attacker's perspective
 - Gained a clearer understanding of how each stage of a penetration test builds on the previous
 - Developed a security-first mindset that now informs how I look at systems - even from a defensive standpoint
