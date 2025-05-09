@@ -1,6 +1,6 @@
 # Search Skills
 
-**Room URL**: [TryHackMe-SearchSKills](https://tryhackme.com/room/searchskills)
+**Room URL**: [TryHackMe-Search Skills](https://tryhackme.com/room/searchskills)
 
 ## Summary
 This room was focused on improving research efficiency using advanced search techniques. While not highly technical on the surface, it provided real value by teaching how to extract relevant information from the web — a critical skill for any analyst or engineer.
