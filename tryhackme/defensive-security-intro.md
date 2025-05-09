@@ -1,6 +1,6 @@
 # Defensive Security Introduction
 
-**Room URL**: [TryHackMe-Offensive Security Intro](https://tryhackme.com/room/defensivesecurity)
+**Room URL**: [TryHackMe-Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 
 ## Summary 
 This room introduced core concepts in defensive security and threat detection. It walked me through the tools and strategies used by blue teams to monitor, analyze, and respond to malicious behaviours. Working through real-world scenarios, I started to appreciate the complexity behind detecting and stopping attacks in progress.
