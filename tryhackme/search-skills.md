@@ -10,7 +10,7 @@ This room was focused on improving research efficiency using advanced search tec
 - Open Source Intelligence (OSINT) techniques
 - Technical documentation and keyword analysis
 
-## Key Takeaways
+## Key Skills Learnt
 - Improved how I approach problem-solving through better research strategies.
 - Learned how to uncover useful data that’s not always obvious or indexed directly.
 - Strengthened my ability to find answers quickly in high-pressure situations — a vital skill in both offensive and defensive roles.
