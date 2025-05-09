@@ -1,6 +1,6 @@
 # Offensive Security Intro
 
-**Room URL**: [TryHackMe-Offensive Security Intro](https://tryhackme.com/room/offensivesecurityinto)
+**Room URL**: [TryHackMe-Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
 ## Summary
 This room provided a strong introduction to offensive security practices and helped me understand the mindset behind ethical hacking. Working through simulated attack scenarios, I got hands-on experience with how adversaries might approach breaking into systems, from reconnaissance all the way through exploitation. It was a practical foundation for understanding the offensive side of cybersecurity.
