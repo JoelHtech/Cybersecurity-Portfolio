@@ -2,6 +2,8 @@
   <img src="https://github.com/JoelHtech/Cybersecurity-Portfolio/blob/main/hackthebox/keyboardpfp.png?raw=true" alt="profile picture" width="150" style="border-radius: 50%;">
 </p>
 
+# Hello, I'm Joel!👋
+
 I am an aspiring cybersecurity professional passionate about offensive and defensive security as well as penetration testing.
 
 Using HackTheBox to constantly solidfy my learning has been monumental for me. I enjoy partaking in the HackTheBox labs using different techniques and vectors to complete CTF's, in addition to this, I love gaining essential knowledge using HackTheBox academy!
