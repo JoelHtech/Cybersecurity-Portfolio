@@ -9,6 +9,6 @@ I have recently completed a cybersecurity traineeship which lasted a year where 
 ## HackTheBox Profile
 You can find my HackTheBox completed projects and skills using my profile!☺️
 
-[HackTheBox Profile](https://hackthebox.com/p/mangosalamander)
+[HackTheBox Profile](https://app.hackthebox.com/profile/mangosalamander)
 
 ## Skills
