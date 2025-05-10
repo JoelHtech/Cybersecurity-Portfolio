@@ -13,13 +13,14 @@ You can find my TryHackMe completed projects and skills using my profile!☺️
 
 [TryHackMe Profile](https://tryhackme.com/p/mangosalamander)
 
-## Skills
-- Networking
-- Cybersecurity
-- Penetration Testing
-- Python
+## Skills 🖥
+- Gained practical knowledge of Linux and Windows operating systems, including command-line usage and PowerShell
+- Learned core networking concepts and tools such as Nmap, Wireshark, and Tcpdump
+- Explored cryptographic fundamentals, including hashing, symmetric/asymmetric encryption, and password cracking
+- Used Metasploit and manual techniques to exploit known vulnerabilities
+- Built foundational skills in both offensive and defensive cybersecurity practices
 
-## Table of Contents
+## Table of Contents 📖
 - **[Active Directory](./active-directory/active-directory-basics.md)**
 - **[Cryptography](./cryptography/)**
   - [Cryptography Basics](./cryptography/cryptography-basics.md)
